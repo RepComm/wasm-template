@@ -1,0 +1,1 @@
+source /home/jon/Desktop/tools/emsdk/emsdk_env.sh
